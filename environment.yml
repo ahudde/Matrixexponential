@@ -1,0 +1,7 @@
+name: Matrixexponential
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - sympy
