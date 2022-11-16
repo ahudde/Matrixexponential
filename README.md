@@ -10,8 +10,7 @@ Sie können auf das Notebook über Binder mit dem Link [https://mybinder.org/v2/
 
 ## Lokale Ausführung
 
-Man benötigt die Python-Anaconda Distribution (https://www.anaconda.com/products/individual). 
-![newplot (1)](https://user-images.githubusercontent.com/60978072/150698083-237ed06e-2020-4e94-80a3-e9b2fe2b95f3.png)
+Man benötigt die Python-Anaconda Distribution (https://www.anaconda.com/products/individual)..
 
 ## Start
 
